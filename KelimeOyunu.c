@@ -140,7 +140,7 @@ int zor(){
    int za=4;
    char zkelime[10];
    char zisim[10];
-   char zkelimeler[10][5]={"KONYA","TOKAT","IZMIR","ADANA","MISIR","LIBYA","DUBAI","SINOP","SIVAS","KILIS"};
+   char zkelimeler[10][5]={"KONYA","TOKAT","IZMIR","ADANA","RUSYA","LIBYA","DUBAI","SINOP","SIVAS","KILIS"};
    int i=0;
    while (i<5)
    {
