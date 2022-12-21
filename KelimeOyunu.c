@@ -49,7 +49,7 @@ int kolay(){
                   printf("0");
                   continue;}
         }
-        if((ka-1)<0){
+        if((ka-1)>0){
         printf("\n%d Hakkiniz Kaldi\n",(ka-1));}
         if((ka-1)==0){
          printf("\nCevap: %s ",kisim);
@@ -116,7 +116,7 @@ int orta(){
                   printf("0");
                   continue;}
         }
-        if((oa-1)<0){
+        if((oa-1)>0){
         printf("\n%d Hakkiniz Kaldi\n",(oa-1));}
         if((oa-1)==0){
          printf("\nCevap: %s",oisim);
@@ -187,7 +187,7 @@ int zor(){
                   continue;}
         
         }
-        if((za-1)<0){
+        if((za-1)>0){
         printf("\n%d Hakkiniz Kaldi\n",(za-1));}
 
 
